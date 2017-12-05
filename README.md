@@ -1,6 +1,6 @@
 # Lashley_Rossi    Robocode
 
-	In our original design for our robot, our goal was to aim and shoot for the robot that had
+In our original design for our robot, our goal was to aim and shoot for the robot that had
 the most energy on the field. If that were prove to be too hard we would try and aim for the
 closest robot on the field. What we found while researching an approach and trying to
 implement our code is that it is quite difficult to compare two robots on the field in a quick and
@@ -29,9 +29,7 @@ were scanned on. To improve this we would have to create a function of the enemy
 and velocity relative to our position and velocity. When we realized this we did not have enough
 time to implement this into our code. This resulted in us being almost a sitting duck while
 scanned on an enemy. While we were not scanned on a robot we were able to move how we
-intended however.
-
-	In conclusion, we did have to make some adjustments to our robot due to both ability to
+intended however. In conclusion, we did have to make some adjustments to our robot due to both ability to
 complete the desired task and practicality of the action when considering efficiency. We
 definitely saw areas of improvement that we believe could be completed with more time to
 complete said tasks. In the end it was a fun learning experience and we are excited to improve
